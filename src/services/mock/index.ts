@@ -1,0 +1,1 @@
+export { TelemetryGenerator } from './generator';
